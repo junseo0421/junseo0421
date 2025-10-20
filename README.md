@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
+
+## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseo0421&layout=compact&theme=highcontrast)
 

@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=junseo0421's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=junseo0421's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=38" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -19,7 +19,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=junseo0421&theme=dark&show_icons=true" />
       </div>
     </div>
-    
+
+## 🏅 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
+
+## 💻 Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseo0421&layout=compact&theme=highcontrast)
 
 <!--
 **junseo0421/junseo0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,9 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏅 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
-
-## Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseo0421&layout=compact&theme=highcontrast)
 

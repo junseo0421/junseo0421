@@ -20,7 +20,7 @@
       </div>
     </div>
 
-## 🏅 Solved.ac
+## ✨ Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
 
 ## 💻 Language

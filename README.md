@@ -13,10 +13,11 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junseo0421&custom_title=junseo0421's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api?username=junseo0421&theme=dark&show_icons=true"
-          /> </div> 
+    <div style="text-align: left;">
+      <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;"> 🏅 Stats </h2>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=junseo0421&custom_title=Junseo%20Kim's%20GitHub%20Stats&show_icons=true&hide_border=true" />
+      </div>
     </div>
     
 
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Solved.ac
+## 🏅 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
 
 ## Language

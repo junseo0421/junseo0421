@@ -30,7 +30,7 @@
 
 ---
 
-### 🏅 Stats & 💻 Languages
+### 🏅 Stats
 
 <div align="center">
 
@@ -39,3 +39,13 @@
 
 </div>
 
+---
+
+### 💻 Languages
+
+<div align="center">
+
+  <!-- 프로필 상세 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junseo0421&theme=github_dark" />
+
+</div>

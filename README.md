@@ -34,7 +34,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=junseo0421&theme=dark&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseo0421&layout=compact&theme=dark" height="150" />
+  <!-- 프로필 상세 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseo0421&theme=dracula" />
+
+  <!-- 언어 통계 (repo 기준) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repo?username=junseo0421&theme=dracula" />
 
 </div>
+

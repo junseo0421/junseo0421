@@ -100,7 +100,7 @@ A news big data hackathon project developed in an organization repository, selec
 
 ## Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junseo0421)](https://solved.ac/junseo0421)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junseo0421)](https://solved.ac/jmdmk9st)
 
 ---
 
@@ -108,7 +108,7 @@ A news big data hackathon project developed in an organization repository, selec
 
 <div align="center">
 
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseo0421&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseo0421&layout=compact)
+![Junseo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseo0421&theme=dracula)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junseo0421&theme=github_dark)
 
 </div>

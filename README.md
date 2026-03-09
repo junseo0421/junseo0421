@@ -100,7 +100,7 @@ A news big data hackathon project developed in an organization repository, selec
 
 ## Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junseo0421)](https://solved.ac/jmdmk9st)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
 
 ---
 

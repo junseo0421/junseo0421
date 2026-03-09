@@ -114,13 +114,3 @@ News big data hackathon project developed in an organization repository, selecte
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmdmk9st)](https://solved.ac/jmdmk9st)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseo0421&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junseo0421&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junseo0421&theme=github_dark" />
-
-</div>

@@ -57,7 +57,7 @@ I am particularly interested in developing vision models that are not only accur
   <img src="https://img.shields.io/badge/Jetson_TX2-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
 ### Tools

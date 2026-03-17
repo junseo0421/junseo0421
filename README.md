@@ -8,7 +8,7 @@ Dongguk University, Republic of Korea
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-junseo0421-181717?style=for-the-badge&logo=github)](https://github.com/junseo0421)
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/04fb8f5af8a783faac4a8143cbc045a3?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-Study-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/04fb8f5af8a783faac4a8143cbc045a3?source=copy_link)
 [![Naver Mail](https://img.shields.io/badge/Naver-jmdmk9st%40naver.com-03C75A?style=for-the-badge&logo=naver)](mailto:jmdmk9st@naver.com)
 [![DGU Mail](https://img.shields.io/badge/DGU-jmdmk9st%40dgu.ac.kr-0F6CBD?style=for-the-badge&logo=gmail)](mailto:jmdmk9st@dgu.ac.kr)
 
